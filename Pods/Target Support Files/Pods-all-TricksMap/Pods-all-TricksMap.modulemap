@@ -1,0 +1,6 @@
+module Pods_all_TricksMap {
+  umbrella header "Pods-all-TricksMap-umbrella.h"
+
+  export *
+  module * { export * }
+}

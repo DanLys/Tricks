@@ -1,0 +1,16 @@
+PODS:
+  - Test (0.0.1-development)
+
+DEPENDENCIES:
+  - Test (from `/Users/danlys/PetProjects/TricksMap/Modules/Screens/Test`)
+
+EXTERNAL SOURCES:
+  Test:
+    :path: "/Users/danlys/PetProjects/TricksMap/Modules/Screens/Test"
+
+SPEC CHECKSUMS:
+  Test: feec624bc613feea03a117f1bc495f14dbbaf3b5
+
+PODFILE CHECKSUM: c9c5b7f2667421b7fea13ebf7156688f56c9bf4a
+
+COCOAPODS: 1.11.3
